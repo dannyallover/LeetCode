@@ -12,6 +12,7 @@ Because nums[0] + nums[1] = 2 + 7 = 9,
 return [0, 1].
 
 Notes: unordered_map in c++ is implimented using hash table instead of tree based maps.
+
 Cost of look up: O(1)
 
 Runtime: My runtime beats 100% of cpp submissions
