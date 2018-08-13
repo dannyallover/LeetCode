@@ -15,7 +15,8 @@ Explanation: 342 + 465 = 807.
 
 Notes: I was actually asked this question during my Visa interview.
 
-Complexity:
+Time Complexity: O(N)
+Space Complexity: O(1)
 
 Runtime: My runtime beats 100% of cpp submissions
 */
