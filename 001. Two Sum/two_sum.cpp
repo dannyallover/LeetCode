@@ -29,6 +29,7 @@ public:
             if(hash.find(compliment) != hash.end()) {
                 res.push_back(hash[compliment]);
                 res.push_back(i);
+                return res;
             }
             else {
                 hash[nums[i]] = i; // put in the key,value pair
