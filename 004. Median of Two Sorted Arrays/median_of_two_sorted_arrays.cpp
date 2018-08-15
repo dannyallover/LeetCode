@@ -1,6 +1,6 @@
 /*
 Written by: dannyallover
-Date: 8/14/2018
+Date: 8/13/2018
 
 Description:
 There are two sorted arrays nums1 and nums2 of size m and n respectively.
