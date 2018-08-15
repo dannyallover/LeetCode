@@ -16,7 +16,7 @@ Notes: unordered_map in c++ is implimented using hash table instead of tree base
 Time Complexity: O(n)
 Space Complexity: O(n)
 
-Runtime: My runtime beats 100% of cpp submissions
+Runtime: My runtime beats 99.88% of cpp submissions
 */
 
 class Solution {
