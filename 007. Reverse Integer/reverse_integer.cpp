@@ -1,6 +1,6 @@
 /*
 Written by: dannyallover
-Date: 7/25/2018
+Date: 07/25/2018
 
 Description:
 Given a 32-bit signed integer, reverse digits of an integer.
