@@ -13,7 +13,7 @@ Given "pwwkew", the answer is "wke", with the length of 3. Note that the answer 
 Time Complexity: O(n)
 Space Complexity: O(min(m,n)), where m is length of the map and n is length of string
 
-Runtime: My runtime beats 66% of c++ solutions.
+Runtime: My runtime beats 66.04% of c++ solutions.
 */
 
 class Solution {
