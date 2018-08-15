@@ -1,6 +1,6 @@
 /*
 Written by: dannyallover
-Date: 7/15/2018
+Date: 8/14/2018
 
 Description:
 Given a string, find the length of the longest substring without repeating characters.
