@@ -1,6 +1,6 @@
 /*
 Written by: dannyallover
-Date: 7/8/2018
+Date: 07/08/2018
 
 Description:
 Given an array of integers, return indices of the two numbers such that they add up to a specific target.
