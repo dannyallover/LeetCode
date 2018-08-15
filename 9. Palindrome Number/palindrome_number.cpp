@@ -1,6 +1,6 @@
 /*
 Written by: dannyallover
-Date: 7/25/2018
+Date: 07/25/2018
 
 Description:
 Determine whether an integer is a palindrome. An integer is a palindrome when it reads the same backward as forward.
@@ -17,10 +17,10 @@ Input: 10
 Output: false
 Explanation: Reads 01 from right to left. Therefore it is not a palindrome.
 
-Time Complexity: O(N)
+Time Complexity: O(n)
 Space Complexity: constant
 
-Runtime: My runtime beat 94.14% of c++ solutions.
+Runtime: My runtime beats 95.50% of c++ solutions.
 
 Note: The problem asks if we could solve it without converting the integer to a string? Since I did it this way,
 can I do it the other way around?
