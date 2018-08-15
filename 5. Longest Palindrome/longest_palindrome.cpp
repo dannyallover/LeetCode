@@ -13,8 +13,8 @@ Example 2:
 Input: "cbbd"
 Output: "bb"
 
-Time Complexity:
-Space Complexity:
+Time Complexity: O(N^2)
+Space Complexity: O(1)
 
 Runtime: My runtime beats 32.23% of c++ solutions.
 */
