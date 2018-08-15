@@ -11,7 +11,7 @@ Example:
 Input: [1,8,6,2,5,4,8,3,7]
 Output: 49
 
-Time Complexity: O(2N)
+Time Complexity: O(N)
 Space Complexity: O(1)
 
 Runtime: My runtime beats 22.99% of c++ solutions.
