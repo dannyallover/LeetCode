@@ -1,6 +1,6 @@
 /*
 Written by: dannyallover
-Date: 7/13/2018
+Date: 07/13/2018
 
 Description:
 Given a string, find the length of the longest substring without repeating characters.
@@ -10,7 +10,7 @@ Given "abcabcbb", the answer is "abc", which the length is 3.
 Given "bbbbb", the answer is "b", with the length of 1.
 Given "pwwkew", the answer is "wke", with the length of 3. Note that the answer must be a substring, "pwke" is a subsequence and not a substring.
 
-Time Complexity: O(N)
+Time Complexity: O(n)
 Space Complexity: O(min(m,n)), where m is length of the longest substring and n is length of string
 
 Runtime: My runtime beats 80.94% of java solutions.
