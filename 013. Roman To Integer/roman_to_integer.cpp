@@ -3,12 +3,25 @@ Written by: dannyallover
 Date: ~06/01/2018
 
 Description:
-Given n non-negative integers a1, a2, ..., an , where each represents a point at coordinate (i, ai). n vertical lines are drawn such that the two endpoints of line i is at (i, ai) and (i, 0). Find two lines, which together with x-axis forms a container, such that the container contains the most water.
-Note: You may not slant the container and n is at least 2.
+Given a roman numeral, convert it to an integer. Input is guaranteed to be within the range from 1 to 3999.
 
-Example:
-Input: [1,8,6,2,5,4,8,3,7]
-Output: 49
+Example 1:
+Input: "III"
+Output: 3
+Example 2:
+Input: "IV"
+Output: 4
+Example 3:
+Input: "IX"
+Output: 9
+Example 4:
+Input: "LVIII"
+Output: 58
+Explanation: C = 100, L = 50, XXX = 30 and III = 3.
+Example 5:
+Input: "MCMXCIV"
+Output: 1994
+Explanation: M = 1000, CM = 900, XC = 90 and IV = 4.
 
 Time Complexity: O(n)
 Space Complexity: O(1)
