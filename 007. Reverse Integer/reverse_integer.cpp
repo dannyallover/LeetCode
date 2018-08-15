@@ -15,7 +15,7 @@ Example 3:
 Input: 120
 Output: 21
 
-Time Complexity: O(N)
+Time Complexity: O(n)
 Space Complexity: constant
 Runtime: My runtime beats 97.19% of c++ solutions.
 
