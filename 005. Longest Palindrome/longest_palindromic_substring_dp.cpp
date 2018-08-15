@@ -1,3 +1,23 @@
+/*
+Written by: dannyallover
+Date: 8/15/2018
+
+Description:
+Given a string s, find the longest palindromic substring in s. You may assume that the maximum length of s is 1000.
+
+Example 1:
+Input: "babad"
+Output: "bab"
+Note: "aba" is also a valid answer.
+Example 2:
+Input: "cbbd"
+Output: "bb"
+
+Time Complexity: O(n^2)
+Space Complexity: O(n^2)
+Runtime: My runtime beats 43.53% of c++ solutions.
+*/
+
 class Solution {
 public:
     string longestPalindrome(string s) {
