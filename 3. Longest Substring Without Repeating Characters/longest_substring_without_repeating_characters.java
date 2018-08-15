@@ -13,7 +13,7 @@ Given "pwwkew", the answer is "wke", with the length of 3. Note that the answer 
 Time Complexity: O(N)
 Space Complexity: O(min(m,n)), where m is length of the longest substring and n is length of string
 
-Runtime: My runtime beats 97.51% of java solutions.
+Runtime: My runtime beats 80.94% of java solutions.
 */
 
 class Solution {
