@@ -1,6 +1,6 @@
 /*
 Written by: dannyallover
-Date: 7/8/2018
+Date: 08/15/2018
 
 Description:
 You are given two non-empty linked lists representing two non-negative integers.
@@ -15,10 +15,10 @@ Explanation: 342 + 465 = 807.
 
 Notes: I was actually asked this question during my Visa interview.
 
-Time Complexity: O(N)
+Time Complexity: O(n)
 Space Complexity: O(1)
 
-Runtime: My runtime beats 100% of cpp submissions
+Runtime: My runtime beats 97.45% of cpp submissions
 */
 
 /**
