@@ -21,7 +21,6 @@ Runtime: My runtime beats 32.23% of c++ solutions.
 
 class Solution {
 public:
-    
     int findPalindrome(string s, int left, int right) {
         // left and right enter,
         if(s[left] != s[right])
