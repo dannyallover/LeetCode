@@ -21,23 +21,20 @@ Memory Usage: Beats 38.72% of c++ solutions.
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        unordered_map<char, int> map;
-        int i = 0;
-        int j = 0;
-        int distance = 0;
-        while(j < s.size()) {
-            if(map[s[j]] < 1) {
-                map[s[j]]++;
-                j++;
+        unordered_map<char, bool> letters;
+        int first = 0, second = 0;
+        int length = s.size();
+        int longest = length > 0 ? 1 : 0;
+        while(first < length && second < length) {
+            if(!letters[s[second]]) {
+                letters[s[second]] = true;
+                longest = max(longest, second - first + 1);
+                second++;
+            } else {
+                letters[s[first]] = false;
+                first++;
             }
-            else {
-                while(map[s[j]] > 0) {
-                    map[s[i]]--;
-                    i++;
-                }
-            }
-            distance = max(distance, j-i);
         }
-        return distance;
-        }
+        return longest;
+    }
 };
