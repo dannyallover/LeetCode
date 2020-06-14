@@ -1,6 +1,6 @@
 /*
 Written by: dannyallover
-Date: 07/15/2018
+Date: 06/13/2020
 
 Description:
 Given a string, find the length of the longest substring without repeating characters.
@@ -11,9 +11,11 @@ Given "bbbbb", the answer is "b", with the length of 1.
 Given "pwwkew", the answer is "wke", with the length of 3. Note that the answer must be a substring, "pwke" is a subsequence and not a substring.
 
 Time Complexity: O(N)
-Space Complexity: O(min(m,n)), where m is length of the map and n is length of string
+Space Complexity: O(N)
+where N is the length of the input string
 
-Runtime: My runtime beats 42.22% of c++ solutions.
+Runtime: Beats 25.60% of c++ solutions.
+Memory Usage: Beats 38.72% of c++ solutions.
 */
 
 class Solution {
