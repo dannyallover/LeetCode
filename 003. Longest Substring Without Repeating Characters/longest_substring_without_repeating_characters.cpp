@@ -13,9 +13,6 @@ Given "pwwkew", the answer is "wke", with the length of 3. Note that the answer 
 Time Complexity: O(N)
 Space Complexity: O(N)
 where N is the length of the input string
-
-Runtime: Beats 25.60% of c++ solutions.
-Memory Usage: Beats 38.72% of c++ solutions.
 */
 
 class Solution {
