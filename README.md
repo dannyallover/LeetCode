@@ -1,2 +1,2 @@
 # LeetCode
-A collection of leetcode problems that I've worked through.
+A collection of 100+ leetcode problems that I've worked through.
