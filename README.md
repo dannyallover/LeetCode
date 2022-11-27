@@ -1,2 +1,2 @@
-# LeetCode
-A collection of 100+ leetcode problems that I've worked through.
+# leetcode
+A collection of 200+ problems from LeetCode [competitions](https://leetcode.com/contest/) that I’ve worked through.
